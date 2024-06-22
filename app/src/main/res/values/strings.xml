@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PME1G14</string>
+    <string name="labelAgregarContacto">Agregar Contacto</string>
+    <string name="labelVerContactos">Ver Contactos</string>
+    <string name="integrantes">Darlin Arevalo - David Molina - Kevin Alexis Banegas </string>
+    <string name="cuentas"> 201810030179 - 200860510073 - 202020010110 </string>
+    <string name="regresar">Regresar</string>
+    <string name="contentDescriptionImg">Imagen</string>
+    <string name="labelNombre">Ingrese el Nombre</string>
+    <string name="labelNumero">Ingrese el Numero</string>
+    <string name="labelNota">Agregue una Nota</string>
+    <string name="labelTomarFoto">Tomar Foto</string>
+    <string name="labelGuardar">Guardar</string>
+    <string name="labelCargarFoto">Click Para Cargar Foto</string>
+    <string name="labelCompartir">Compartir</string>
+    <string name="labelEliminar">Eliminar</string>
+    <string name="labelActualizar">Actualizar</string>
+    <string name="labelVerFoto">Ver Foto</string>
+    <string name="labelLlamar">Llamar</string>
+</resources>
